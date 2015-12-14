@@ -1,0 +1,1865 @@
+2015-12-13 12:34:56,796.796 INFO merge - find_files: 49 Started collecting all CSV Files
+2015-12-13 12:34:56,796.796 INFO merge - find_files: 50 Finished collecting all CSV Files
+2015-12-13 12:34:56,828.828 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:34:56,828.828 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:34:56,890.890 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:34:56,890.890 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:34:56,890.890 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:34:56,890.890 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:34:56,890.890 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:34:56,890.890 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:34:56,905.905 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:34:56,905.905 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:34:56,905.905 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:34:56,905.905 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:37:16,517.517 INFO merge - find_files: 49 Started collecting all CSV Files
+2015-12-13 12:37:16,517.517 INFO merge - find_files: 50 Finished collecting all CSV Files
+2015-12-13 12:37:16,517.517 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:37:16,517.517 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:37:16,533.533 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:37:16,533.533 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:37:16,533.533 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:37:16,549.549 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:37:16,549.549 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:37:16,549.549 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:37:16,549.549 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:37:16,549.549 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:37:16,549.549 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:37:16,565.565 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:39:53,947.947 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:39:53,947.947 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:39:53,963.963 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\Year\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,236.236 INFO merge - find_files: 49 Started collecting all CSV Files
+2015-12-13 12:42:51,236.236 INFO merge - find_files: 50 Finished collecting all CSV Files
+2015-12-13 12:42:51,250.250 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,250.250 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,313.313 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,313.313 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,313.313 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,328.328 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,328.328 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,328.328 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,345.345 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,345.345 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,345.345 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,361.361 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,361.361 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,361.361 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,375.375 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,375.375 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,375.375 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,375.375 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,375.375 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,375.375 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,391.391 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,391.391 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,391.391 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,407.407 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,407.407 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,407.407 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,423.423 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,423.423 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,423.423 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,438.438 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,438.438 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,438.438 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,438.438 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,438.438 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,438.438 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,453.453 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,453.453 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,453.453 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,470.470 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,470.470 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,470.470 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,470.470 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,470.470 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,470.470 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,486.486 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:42:51,486.486 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:42:51,486.486 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:42:51,486.486 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:45:24,907.907 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:45:24,907.907 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:45:24,924.924 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,191.191 INFO merge - find_files: 49 Started collecting all CSV Files
+2015-12-13 12:49:10,191.191 INFO merge - find_files: 50 Finished collecting all CSV Files
+2015-12-13 12:49:10,191.191 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,191.191 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,207.207 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,207.207 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,207.207 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,207.207 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,207.207 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,207.207 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,207.207 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,207.207 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,207.207 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,223.223 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,223.223 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,223.223 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,223.223 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,223.223 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,223.223 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,223.223 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,223.223 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,223.223 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,239.239 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,239.239 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,239.239 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,239.239 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,239.239 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,239.239 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,239.239 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,239.239 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,239.239 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,255.255 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,255.255 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,255.255 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,255.255 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,255.255 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,255.255 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,255.255 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,255.255 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,255.255 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,269.269 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,269.269 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,269.269 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,269.269 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,269.269 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,269.269 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,269.269 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 12:49:10,269.269 INFO merge - categories_find: 19 Started Grouping Data
+2015-12-13 12:49:10,269.269 INFO merge - categories_find: 20 Finished Grouping Data
+2015-12-13 12:49:10,286.286 ERROR merge - categories_find: 34 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 25, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 13:35:02,687.687 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 13:35:02,687.687 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 13:35:02,703.703 ERROR merge - find_files: 63 Unexpected file Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 57, in find_files
+    total_csv.append(files)
+NameError: global name 'total_csv' is not defined
+2015-12-13 13:39:25,010.10 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 13:39:25,010.10 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 13:39:25,010.10 ERROR merge - find_files: 63 Unexpected file Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 57, in find_files
+    total_csv.append(files)
+NameError: global name 'total_csv' is not defined
+2015-12-13 14:09:48,762.762 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:09:48,762.762 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:09:48,776.776 ERROR merge - find_files: 63 Unexpected file Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 57, in find_files
+    total_csv.append(files)
+NameError: global name 'total_csv' is not defined
+2015-12-13 14:10:42,865.865 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:10:42,865.865 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:10:42,881.881 ERROR merge - find_files: 64 Unexpected file Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 57, in find_files
+    total_csv.append(files)
+NameError: global name 'total_csv' is not defined
+2015-12-13 14:11:13,424.424 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:11:13,424.424 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:11:50,750.750 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:11:50,750.750 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:12:25,323.323 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:12:25,323.323 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:12:47,532.532 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:12:47,532.532 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:13:59,628.628 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:13:59,628.628 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:14:43,661.661 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:14:43,661.661 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:16:00,967.967 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:16:00,967.967 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:19:20,457.457 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:19:20,457.457 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:19:20,457.457 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:19:20,457.457 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:19:20,457.457 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:19:20,457.457 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:19:20,457.457 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:19:20,473.473 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:19:20,473.473 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:19:20,473.473 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:19:20,473.473 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:19:20,473.473 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:19:20,473.473 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:19:20,490.490 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:19:47,177.177 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:19:47,177.177 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:19:47,177.177 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:19:47,177.177 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:19:47,193.193 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:19:47,193.193 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:19:47,193.193 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:19:47,207.207 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:19:47,207.207 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:19:47,207.207 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:19:47,207.207 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:19:47,207.207 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:19:47,223.223 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:19:47,223.223 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in categories_find.csv_f:
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:20:56,911.911 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:20:56,911.911 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:20:56,911.911 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:20:56,911.911 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:20:56,911.911 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 29, in categories_find
+    air=csv.writer(categories_find.new_csv, delimiter=',')
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:20:56,911.911 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:20:56,911.911 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:20:56,911.911 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 29, in categories_find
+    air=csv.writer(categories_find.new_csv, delimiter=',')
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:20:56,927.927 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:20:56,927.927 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:20:56,927.927 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 29, in categories_find
+    air=csv.writer(categories_find.new_csv, delimiter=',')
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:20:56,927.927 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:20:56,927.927 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:20:56,927.927 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 29, in categories_find
+    air=csv.writer(categories_find.new_csv, delimiter=',')
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:23:36,897.897 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:23:36,897.897 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:23:36,897.897 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:23:36,897.897 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:23:36,913.913 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 29, in categories_find
+    air=csv.writer(categories_find.new_csv, delimiter=',')
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:23:36,913.913 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:23:36,913.913 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:23:36,927.927 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 29, in categories_find
+    air=csv.writer(categories_find.new_csv, delimiter=',')
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:23:36,927.927 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:23:36,927.927 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:23:36,927.927 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 29, in categories_find
+    air=csv.writer(categories_find.new_csv, delimiter=',')
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:23:36,927.927 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:23:36,927.927 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:23:36,944.944 ERROR merge - categories_find: 36 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 29, in categories_find
+    air=csv.writer(categories_find.new_csv, delimiter=',')
+NameError: global name 'categories_find' is not defined
+2015-12-13 14:24:31,474.474 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:24:31,474.474 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:24:31,474.474 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:24:31,474.474 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:25:15,260.260 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:25:15,260.260 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:25:15,260.260 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:25:15,260.260 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:25:38,049.49 INFO merge - find_files: 51 Started collecting all CSV Files
+2015-12-13 14:25:38,049.49 INFO merge - find_files: 52 Finished collecting all CSV Files
+2015-12-13 14:25:38,049.49 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:25:38,049.49 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:26:15,657.657 INFO merge - find_files: 52 Started collecting all CSV Files
+2015-12-13 14:26:15,657.657 INFO merge - find_files: 53 Finished collecting all CSV Files
+2015-12-13 14:26:15,674.674 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:26:15,674.674 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:26:51,426.426 INFO merge - find_files: 52 Started collecting all CSV Files
+2015-12-13 14:26:51,426.426 INFO merge - find_files: 53 Finished collecting all CSV Files
+2015-12-13 14:26:51,441.441 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:26:51,441.441 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:27:08,101.101 INFO merge - find_files: 52 Started collecting all CSV Files
+2015-12-13 14:27:08,101.101 INFO merge - find_files: 53 Finished collecting all CSV Files
+2015-12-13 14:27:08,115.115 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:27:08,115.115 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:27:33,042.42 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:27:33,042.42 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:27:33,042.42 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:27:33,042.42 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:27:39,516.516 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:27:39,516.516 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:27:39,516.516 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:27:39,516.516 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:27:57,049.49 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:27:57,049.49 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:27:57,049.49 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:27:57,049.49 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:28:21,539.539 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:28:21,539.539 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:28:21,555.555 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:28:21,555.555 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:29:31,127.127 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:29:31,127.127 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:29:31,127.127 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:29:31,127.127 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:29:53,894.894 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:29:53,911.911 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:29:53,911.911 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:29:53,911.911 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:30:23,420.420 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:30:23,420.420 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:30:34,125.125 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:30:34,125.125 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:30:34,141.141 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:30:34,141.141 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:30:51,526.526 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:30:51,526.526 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:30:51,540.540 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:30:51,540.540 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:31:26,247.247 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:31:26,247.247 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:31:26,263.263 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:31:26,263.263 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:32:07,680.680 INFO merge - find_files: 53 Started collecting all CSV Files
+2015-12-13 14:32:07,680.680 INFO merge - find_files: 54 Finished collecting all CSV Files
+2015-12-13 14:32:07,696.696 INFO merge - categories_find: 22 Started Grouping Data
+2015-12-13 14:32:07,696.696 INFO merge - categories_find: 23 Finished Grouping Data
+2015-12-13 14:32:32,944.944 INFO merge - find_files: 52 Started collecting all CSV Files
+2015-12-13 14:32:32,944.944 INFO merge - find_files: 53 Finished collecting all CSV Files
+2015-12-13 14:32:32,960.960 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:32:32,960.960 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:32:47,255.255 INFO merge - find_files: 52 Started collecting all CSV Files
+2015-12-13 14:32:47,255.255 INFO merge - find_files: 53 Finished collecting all CSV Files
+2015-12-13 14:32:47,270.270 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:32:47,270.270 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:41:48,365.365 INFO merge - find_files: 52 Started collecting all CSV Files
+2015-12-13 14:41:48,365.365 INFO merge - find_files: 53 Finished collecting all CSV Files
+2015-12-13 14:41:48,397.397 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:41:48,397.397 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:42:59,773.773 INFO merge - find_files: 52 Started collecting all CSV Files
+2015-12-13 14:42:59,773.773 INFO merge - find_files: 53 Finished collecting all CSV Files
+2015-12-13 14:42:59,803.803 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:42:59,803.803 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:53:57,154.154 INFO merge - find_files: 52 Started collecting all CSV Files
+2015-12-13 14:53:57,154.154 INFO merge - find_files: 53 Finished collecting all CSV Files
+2015-12-13 14:53:57,154.154 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:53:57,154.154 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:53:57,170.170 ERROR merge - categories_find: 37 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in Merge.call.csv_f:
+AttributeError: 'function' object has no attribute 'csv_f'
+2015-12-13 14:53:57,170.170 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:53:57,170.170 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:53:57,170.170 ERROR merge - categories_find: 37 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in Merge.call.csv_f:
+AttributeError: 'function' object has no attribute 'csv_f'
+2015-12-13 14:53:57,186.186 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:53:57,186.186 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:53:57,186.186 ERROR merge - categories_find: 37 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in Merge.call.csv_f:
+AttributeError: 'function' object has no attribute 'csv_f'
+2015-12-13 14:53:57,186.186 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:53:57,186.186 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:53:57,186.186 ERROR merge - categories_find: 37 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in Merge.call.csv_f:
+AttributeError: 'function' object has no attribute 'csv_f'
+2015-12-13 14:53:57,186.186 INFO merge - categories_find: 21 Started Grouping Data
+2015-12-13 14:53:57,186.186 INFO merge - categories_find: 22 Finished Grouping Data
+2015-12-13 14:53:57,200.200 ERROR merge - categories_find: 37 Unexpected Error:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\tsc10\Desktop\Web Scraping\merge.py", line 27, in categories_find
+    for row in Merge.call.csv_f:
+AttributeError: 'function' object has no attribute 'csv_f'
+2015-12-13 15:51:04,003.3 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 15:51:04,003.3 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 15:51:04,019.19 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,019.19 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,019.19 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,019.19 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,033.33 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,033.33 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,049.49 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,049.49 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,081.81 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,081.81 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,081.81 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,081.81 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,081.81 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,081.81 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,112.112 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,112.112 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,128.128 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,128.128 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,144.144 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,144.144 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,158.158 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,158.158 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,158.158 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,158.158 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,174.174 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,174.174 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,206.206 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,206.206 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,236.236 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,236.236 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,253.253 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,253.253 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,269.269 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,269.269 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,283.283 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,283.283 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,283.283 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,283.283 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:51:04,299.299 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:51:04,299.299 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,858.858 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 15:57:21,858.858 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 15:57:21,858.858 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,858.858 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,874.874 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,874.874 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,890.890 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,890.890 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,904.904 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,904.904 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,921.921 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,921.921 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,936.936 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,936.936 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,936.936 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,936.936 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,951.951 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,951.951 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,983.983 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,983.983 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,999.999 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,999.999 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:21,999.999 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:21,999.999 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,013.13 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,013.13 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,029.29 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,029.29 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,061.61 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,061.61 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,092.92 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,092.92 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,092.92 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,092.92 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,124.124 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,124.124 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,124.124 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,124.124 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,138.138 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,138.138 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,154.154 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,154.154 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,154.154 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,154.154 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,186.186 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,186.186 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,186.186 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,186.186 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,201.201 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,201.201 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,201.201 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,201.201 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,217.217 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,217.217 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,233.233 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,233.233 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,249.249 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,249.249 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,249.249 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,249.249 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 15:57:22,263.263 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 15:57:22,263.263 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,265.265 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 16:38:14,265.265 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 16:38:14,265.265 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,265.265 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,265.265 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,265.265 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,279.279 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,279.279 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,312.312 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,312.312 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,326.326 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,326.326 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,326.326 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,326.326 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,326.326 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,326.326 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,342.342 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,342.342 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,374.374 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,374.374 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,390.390 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,390.390 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,390.390 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,390.390 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,404.404 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,404.404 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,404.404 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,421.421 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,436.436 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,436.436 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,467.467 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,467.467 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,467.467 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,467.467 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,499.499 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,499.499 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,499.499 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,499.499 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,515.515 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,515.515 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,529.529 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,529.529 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,529.529 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,529.529 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,546.546 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,546.546 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,561.561 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,561.561 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,576.576 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,576.576 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,576.576 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,576.576 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,592.592 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,592.592 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,608.608 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,608.608 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,608.608 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,608.608 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,624.624 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,624.624 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 16:38:14,638.638 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 16:38:14,638.638 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,865.865 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 18:10:18,865.865 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 18:10:18,881.881 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,881.881 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,881.881 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,881.881 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,898.898 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,898.898 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,930.930 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,930.930 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,946.946 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,946.946 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,946.946 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,946.946 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,961.961 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,961.961 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,977.977 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,977.977 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:18,993.993 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:18,993.993 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,009.9 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,009.9 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,026.26 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,026.26 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,026.26 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,026.26 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,042.42 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,042.42 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,058.58 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,058.58 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,089.89 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,089.89 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,105.105 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,105.105 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,121.121 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,121.121 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,138.138 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,138.138 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,138.138 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,138.138 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,154.154 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,154.154 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,170.170 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,170.170 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,186.186 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,186.186 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,186.186 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,186.186 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,201.201 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,201.201 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,217.217 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,217.217 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,217.217 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,217.217 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,250.250 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,250.250 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,250.250 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,250.250 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,266.266 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,266.266 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 18:10:19,266.266 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 18:10:19,266.266 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,026.26 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 19:15:21,026.26 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 19:15:21,026.26 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,026.26 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,026.26 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,026.26 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,040.40 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,040.40 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,072.72 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,072.72 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,088.88 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,088.88 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,088.88 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,088.88 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,104.104 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,104.104 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,119.119 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,119.119 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,134.134 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,134.134 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,151.151 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,151.151 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,151.151 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,151.151 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,165.165 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,165.165 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,181.181 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,181.181 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,197.197 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,197.197 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,229.229 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,229.229 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,243.243 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,243.243 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,259.259 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,259.259 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,259.259 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,259.259 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,276.276 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,276.276 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,290.290 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,290.290 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,290.290 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,290.290 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,322.322 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,322.322 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,322.322 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,322.322 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,338.338 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,338.338 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,354.354 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,354.354 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,354.354 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,354.354 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,368.368 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,368.368 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,384.384 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,384.384 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,400.400 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,400.400 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 19:15:21,400.400 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 19:15:21,400.400 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,197.197 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:01:32,197.197 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:01:32,197.197 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,197.197 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,197.197 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,197.197 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,213.213 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,213.213 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,243.243 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,243.243 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,243.243 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,243.243 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,243.243 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,243.243 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,243.243 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,243.243 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,275.275 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,275.275 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,290.290 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,290.290 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,290.290 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,290.290 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,322.322 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,322.322 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,322.322 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,322.322 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,338.338 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,338.338 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,368.368 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,368.368 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,368.368 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,368.368 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,415.415 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,415.415 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,430.430 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,430.430 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,430.430 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,430.430 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,447.447 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,447.447 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,447.447 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,447.447 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,463.463 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,463.463 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,477.477 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,477.477 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,477.477 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,477.477 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,493.493 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,493.493 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,493.493 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,493.493 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,493.493 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,493.493 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,509.509 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,509.509 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,525.525 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,525.525 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,525.525 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,525.525 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:01:32,525.525 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:01:32,525.525 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,789.789 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:05:54,789.789 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:05:54,789.789 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,789.789 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,803.803 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,803.803 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,819.819 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,819.819 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,835.835 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,835.835 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,835.835 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,835.835 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,835.835 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,835.835 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,851.851 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,851.851 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,851.851 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,851.851 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,881.881 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,881.881 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,881.881 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,881.881 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,881.881 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,881.881 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,898.898 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,898.898 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,898.898 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,898.898 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,928.928 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,928.928 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,928.928 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,928.928 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,944.944 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,944.944 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,960.960 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,960.960 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,960.960 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,960.960 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,976.976 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,976.976 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,976.976 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,976.976 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:54,992.992 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:54,992.992 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,006.6 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,006.6 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,006.6 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,006.6 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,023.23 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,023.23 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,023.23 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,023.23 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,023.23 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,023.23 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,038.38 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,038.38 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,038.38 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,038.38 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,053.53 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,053.53 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:05:55,053.53 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:05:55,053.53 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,336.336 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:11:13,336.336 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:11:13,336.336 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,336.336 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,336.336 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,336.336 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,351.351 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,351.351 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,384.384 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,384.384 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,384.384 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,384.384 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,384.384 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,384.384 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,384.384 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,384.384 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,398.398 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,398.398 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,414.414 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,414.414 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,414.414 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,414.414 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,430.430 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,430.430 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,446.446 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,446.446 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,446.446 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,446.446 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,476.476 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,476.476 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,476.476 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,476.476 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,493.493 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,493.493 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,507.507 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,507.507 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,507.507 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,507.507 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,523.523 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,523.523 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,523.523 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,523.523 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,523.523 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,523.523 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,539.539 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,539.539 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,539.539 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,539.539 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,555.555 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,555.555 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,555.555 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,555.555 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,571.571 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,571.571 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,585.585 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,585.585 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,585.585 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,585.585 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,601.601 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,601.601 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:11:13,601.601 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:11:13,601.601 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,855.855 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:17:18,855.855 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:17:18,855.855 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,855.855 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,855.855 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,855.855 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,871.871 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,871.871 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,887.887 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,887.887 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,887.887 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,901.901 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,901.901 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,901.901 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,901.901 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,901.901 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,917.917 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,917.917 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,934.934 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,934.934 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,934.934 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,934.934 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,948.948 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,948.948 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,948.948 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,948.948 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,964.964 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,964.964 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,996.996 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,996.996 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:18,996.996 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:18,996.996 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,012.12 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,012.12 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,026.26 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,026.26 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,026.26 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,026.26 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,042.42 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,042.42 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,042.42 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,042.42 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,042.42 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,042.42 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,058.58 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,058.58 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,073.73 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,073.73 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,073.73 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,073.73 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,073.73 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,073.73 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,089.89 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,089.89 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,105.105 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,105.105 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,105.105 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,105.105 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,121.121 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,121.121 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:17:19,121.121 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:17:19,121.121 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,069.69 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:23:58,069.69 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:23:58,069.69 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,069.69 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,085.85 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,085.85 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,085.85 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,085.85 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,101.101 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,101.101 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,117.117 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,117.117 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,117.117 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,117.117 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,117.117 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,117.117 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,132.132 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,132.132 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,148.148 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,148.148 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,148.148 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,148.148 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,164.164 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,164.164 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,164.164 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,164.164 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,178.178 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,178.178 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,210.210 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,210.210 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,210.210 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,210.210 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,226.226 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,226.226 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,242.242 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,242.242 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,242.242 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,242.242 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,256.256 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,256.256 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,256.256 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,256.256 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,256.256 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,256.256 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,273.273 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,273.273 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,289.289 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,289.289 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,289.289 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,289.289 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,289.289 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,289.289 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,303.303 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,303.303 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,319.319 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,319.319 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,319.319 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,319.319 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,335.335 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,335.335 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:23:58,335.335 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:23:58,335.335 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:42,921.921 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:29:42,921.921 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:29:42,921.921 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:42,921.921 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:42,921.921 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:42,921.921 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:42,937.937 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:42,937.937 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:42,969.969 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:42,969.969 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:42,969.969 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:42,969.969 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:42,969.969 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:42,969.969 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:42,969.969 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:42,969.969 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:42,984.984 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:42,984.984 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,016.16 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,016.16 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,016.16 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,016.16 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,016.16 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,016.16 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,032.32 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,032.32 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,046.46 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,046.46 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,078.78 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,078.78 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,078.78 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,078.78 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,094.94 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,094.94 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,109.109 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,109.109 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,109.109 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,109.109 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,125.125 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,125.125 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,125.125 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,125.125 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,125.125 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,125.125 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,141.141 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,141.141 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,157.157 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,157.157 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,157.157 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,157.157 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,157.157 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,157.157 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,171.171 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,171.171 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,187.187 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,187.187 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,187.187 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,187.187 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,203.203 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,203.203 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:29:43,203.203 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:29:43,203.203 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,690.690 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:37:34,690.690 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:37:34,690.690 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,690.690 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,690.690 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,690.690 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,707.707 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,707.707 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,721.721 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,721.721 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,721.721 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,721.721 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,737.737 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,737.737 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,737.737 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,737.737 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,753.753 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,753.753 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,769.769 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,769.769 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,769.769 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,769.769 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,769.769 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,769.769 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,785.785 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,785.785 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,785.785 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,785.785 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,815.815 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,815.815 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,815.815 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,815.815 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,832.832 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,832.832 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,846.846 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,846.846 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,846.846 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,846.846 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,862.862 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,862.862 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,862.862 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,862.862 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,862.862 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,862.862 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,878.878 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,878.878 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,894.894 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,894.894 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,894.894 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,894.894 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,894.894 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,894.894 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,910.910 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,910.910 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,924.924 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,924.924 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,924.924 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,924.924 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,940.940 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,940.940 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:37:34,940.940 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:37:34,940.940 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,713.713 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:44:40,713.713 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:44:40,730.730 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,730.730 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,730.730 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,730.730 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,744.744 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,744.744 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,760.760 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,760.760 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,760.760 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,760.760 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,760.760 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,760.760 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,760.760 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,776.776 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,776.776 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,776.776 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,792.792 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,792.792 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,792.792 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,792.792 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,808.808 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,808.808 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,808.808 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,808.808 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,822.822 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,822.822 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,838.838 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,838.838 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,838.838 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,838.838 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,854.854 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,854.854 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,869.869 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,869.869 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,885.885 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,885.885 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,885.885 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,885.885 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,885.885 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,885.885 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,901.901 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,901.901 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,917.917 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,917.917 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,917.917 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,917.917 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,931.931 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,931.931 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,931.931 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,931.931 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,931.931 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,931.931 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,947.947 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,947.947 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,947.947 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,947.947 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,963.963 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,963.963 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:44:40,963.963 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:44:40,963.963 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,522.522 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:54:15,522.522 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:54:15,536.536 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,536.536 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,536.536 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,536.536 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,552.552 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,552.552 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,569.569 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,569.569 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,569.569 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,569.569 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,584.584 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,584.584 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,584.584 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,584.584 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,599.599 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,599.599 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,615.615 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,615.615 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,615.615 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,615.615 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,631.631 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,631.631 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,647.647 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,647.647 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,647.647 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,647.647 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,677.677 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,677.677 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,677.677 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,677.677 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,693.693 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,693.693 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,709.709 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,709.709 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,724.724 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,724.724 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,724.724 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,724.724 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,724.724 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,724.724 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,740.740 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,740.740 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,756.756 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,756.756 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,756.756 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,756.756 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,770.770 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,770.770 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,770.770 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,770.770 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,786.786 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,786.786 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,786.786 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,786.786 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,802.802 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,802.802 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,818.818 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,818.818 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:54:15,818.818 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:54:15,818.818 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,484.484 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 20:58:34,484.484 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 20:58:34,500.500 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,500.500 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,500.500 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,500.500 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,516.516 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,516.516 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,530.530 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,530.530 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,530.530 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,530.530 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,546.546 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,546.546 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,546.546 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,546.546 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,562.562 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,562.562 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,578.578 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,578.578 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,578.578 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,578.578 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,594.594 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,594.594 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,594.594 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,594.594 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,608.608 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,608.608 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,641.641 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,641.641 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,641.641 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,641.641 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,655.655 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,655.655 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,671.671 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,671.671 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,671.671 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,671.671 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,687.687 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,687.687 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,687.687 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,687.687 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,703.703 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,703.703 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,719.719 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,719.719 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,719.719 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,719.719 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,733.733 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,733.733 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,733.733 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,733.733 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,733.733 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,733.733 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,750.750 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,750.750 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,750.750 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,750.750 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,765.765 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,765.765 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 20:58:34,765.765 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 20:58:34,765.765 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,578.578 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 21:09:04,578.578 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 21:09:04,578.578 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,578.578 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,578.578 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,578.578 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,594.594 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,594.594 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,608.608 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,608.608 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,608.608 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,608.608 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,625.625 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,625.625 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,625.625 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,625.625 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,641.641 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,641.641 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,655.655 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,655.655 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,655.655 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,655.655 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,671.671 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,671.671 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,687.687 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,687.687 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,687.687 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,687.687 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,719.719 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,719.719 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,719.719 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,719.719 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,733.733 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,733.733 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,750.750 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,750.750 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,750.750 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,750.750 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,765.765 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,765.765 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,765.765 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,765.765 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,780.780 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,780.780 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,796.796 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,796.796 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,796.796 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,796.796 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,812.812 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,812.812 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,812.812 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,812.812 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,812.812 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,812.812 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,828.828 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,828.828 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,842.842 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,842.842 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,842.842 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,842.842 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:09:04,842.842 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:09:04,842.842 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,494.494 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 21:22:30,494.494 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 21:22:30,494.494 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,494.494 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,494.494 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,494.494 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,509.509 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,509.509 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,526.526 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,526.526 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,526.526 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,526.526 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,540.540 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,540.540 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,540.540 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,540.540 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,556.556 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,556.556 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,572.572 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,572.572 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,572.572 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,572.572 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,588.588 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,588.588 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,604.604 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,604.604 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,604.604 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,604.604 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,634.634 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,634.634 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,634.634 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,634.634 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,651.651 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,651.651 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,665.665 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,665.665 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,681.681 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,681.681 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,681.681 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,681.681 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,681.681 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,681.681 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,697.697 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,697.697 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,713.713 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,713.713 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,713.713 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,713.713 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,729.729 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,729.729 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,729.729 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,729.729 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,729.729 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,729.729 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,743.743 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,743.743 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,759.759 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,759.759 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,759.759 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,775.775 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:22:30,775.775 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:22:30,775.775 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,835.835 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 21:26:35,835.835 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 21:26:35,835.835 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,835.835 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,835.835 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,835.835 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,851.851 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,851.851 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,867.867 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,867.867 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,867.867 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,867.867 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,882.882 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,882.882 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,882.882 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,882.882 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,898.898 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,898.898 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,914.914 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,914.914 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,914.914 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,914.914 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,930.930 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,930.930 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,944.944 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,944.944 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,944.944 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,944.944 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,976.976 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,976.976 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,976.976 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,976.976 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:35,992.992 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:35,992.992 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,007.7 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,007.7 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,023.23 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,023.23 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,023.23 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,039.39 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,039.39 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,039.39 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,039.39 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,039.39 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,053.53 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,053.53 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,053.53 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,053.53 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,069.69 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,069.69 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,069.69 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,069.69 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,069.69 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,069.69 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,085.85 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,085.85 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,101.101 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,101.101 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,117.117 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,117.117 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:26:36,117.117 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:26:36,117.117 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,573.573 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 21:38:10,573.573 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 21:38:10,573.573 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,573.573 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,588.588 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,588.588 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,605.605 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,605.605 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,621.621 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,621.621 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,621.621 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,621.621 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,621.621 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,621.621 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,635.635 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,635.635 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,651.651 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,651.651 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,667.667 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,667.667 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,667.667 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,683.683 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,683.683 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,683.683 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,683.683 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,683.683 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,698.698 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,698.698 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,730.730 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,730.730 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,730.730 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,730.730 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,746.746 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,746.746 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,760.760 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,760.760 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,760.760 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,760.760 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,776.776 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,776.776 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,776.776 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,776.776 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,792.792 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,792.792 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,808.808 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,808.808 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,808.808 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,808.808 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,823.823 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,823.823 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,823.823 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,823.823 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,823.823 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,823.823 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,839.839 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,839.839 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,839.839 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,839.839 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,855.855 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,855.855 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:38:10,871.871 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:38:10,871.871 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,461.461 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 21:47:19,461.461 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 21:47:19,461.461 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,461.461 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,461.461 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,461.461 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,476.476 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,476.476 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,493.493 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,493.493 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,509.509 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,509.509 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,523.523 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,523.523 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,523.523 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,523.523 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,539.539 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,539.539 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,555.555 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,555.555 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,571.571 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,571.571 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,586.586 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,586.586 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,601.601 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,601.601 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,601.601 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,601.601 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,634.634 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,634.634 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,634.634 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,634.634 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,664.664 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,664.664 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,696.696 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,696.696 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,696.696 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,696.696 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,711.711 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,711.711 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,711.711 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,711.711 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,726.726 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,726.726 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,759.759 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,759.759 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,759.759 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,759.759 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,773.773 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,773.773 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,773.773 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,773.773 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,789.789 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,789.789 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,805.805 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,805.805 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,805.805 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,805.805 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,821.821 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,821.821 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 21:47:19,821.821 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 21:47:19,821.821 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,684.684 INFO merge - find_files: 55 Started collecting all CSV Files
+2015-12-13 22:07:42,684.684 INFO merge - find_files: 56 Finished collecting all CSV Files
+2015-12-13 22:07:42,684.684 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,684.684 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,684.684 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,684.684 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,700.700 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,700.700 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,716.716 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,716.716 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,730.730 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,730.730 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,746.746 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,746.746 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,746.746 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,746.746 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,778.778 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,778.778 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,793.793 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,793.793 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,793.793 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,793.793 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,825.825 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,825.825 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,825.825 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,825.825 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,841.841 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,841.841 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,871.871 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,871.871 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,871.871 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,871.871 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,903.903 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,903.903 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,918.918 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,918.918 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,934.934 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,934.934 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,934.934 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,934.934 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,950.950 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,950.950 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,964.964 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,964.964 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,980.980 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,980.980 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,980.980 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,980.980 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,996.996 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,996.996 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:42,996.996 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:42,996.996 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:43,012.12 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:43,012.12 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:43,028.28 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:43,028.28 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:43,042.42 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:43,042.42 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:43,059.59 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:43,059.59 INFO merge - categories_find: 24 Finished Grouping Data
+2015-12-13 22:07:43,059.59 INFO merge - categories_find: 23 Started Grouping Data
+2015-12-13 22:07:43,059.59 INFO merge - categories_find: 24 Finished Grouping Data
